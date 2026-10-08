@@ -1,0 +1,6 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="geo-news" tvg-name="Geo News" tvg-logo="https://your-site.example/logos/geo-news.png" group-title="News",Geo News
+https://your-authorized-provider.example/path/geo-news.m3u8
+
+#EXTINF:-1 tvg-name="Another Channel" tvg-logo="https://your-site.example/logos/another-channel.png" group-title="News",Another Channel
+https://your-authorized-provider.example/path/another-channel.m3u8
