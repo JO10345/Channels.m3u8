@@ -6,14 +6,14 @@ https://cdn5.mjunoon.tv:8087/web/Neo-110/live/110M/chunks.m3u8
 https://cdn5.mjunoon.tv:8087/web/SeeTV-156/live/156M/l_231882982_38645.ts
 #EXTM3U
 
-#EXTINF:-1 tvg-id="geo-news" tvg-name="Geo News" tvg-logo="https://your-site.example/logos/geo-news.png" group-title="News",Geo News
-https://your-authorized-provider.example/path/geo-news.m3u8
+#EXTINF:-1 tvg-id="Tamshah" tvg-name="Tamshah" tvg-logo="https://your-site.example/logos/geo-news.png" group-title="sports", Tamshah
+https://cdn02isb-n.tamashaweb.com:8087/jazzauth/SAvAUS-avod-abr/live/AUSvsSA_Dirty_240p/chunks.m3u8
 
 #EXTINF:-1 tvg-name="ARY News" tvg-logo="https://your-site.example/logos/ary-news.png" group-title="News",ARY News
 https://your-authorized-provider.example/path/ary-news.m3u8
 
 #EXTINF:-1 tvg-name="Samaa TV" tvg-logo="https://your-site.example/logos/samaa-tv.png" group-title="News",Samaa TV
-https://your-authorized-provider.example/path/samaa-tv.m3u8
+https://cdn5.mjunoon.tv:8087/web/SAMAA-173/live/173H/chunks.m3u8
 
 #EXTINF:-1 tvg-name="Dunya News" tvg-logo="https://your-site.example/logos/dunya-news.png" group-title="News",Dunya News
 https://your-authorized-provider.example/path/dunya-news.m3u8
@@ -36,14 +36,14 @@ https://your-authorized-provider.example/path/gnn.m3u8
 #EXTINF:-1 tvg-name="PTV News" tvg-logo="https://your-site.example/logos/ptv-news.png" group-title="News",PTV News
 https://your-authorized-provider.example/path/ptv-news.m3u8
 
-#EXTINF:-1 tvg-name="Geo Entertainment" tvg-logo="https://your-site.example/logos/geo-entertainment.png" group-title="Entertainment",Geo Entertainment
-https://your-authorized-provider.example/path/geo-entertainment.m3u8
+#EXTINF:-1 tvg-name="apna channel" tvg-logo="https://your-site.example/logos/geo-entertainment.png" group-title="Entertainment",Apna channel
+https://cdn5.mjunoon.tv:8087/web/ApnaChannel-134/live/134M/chunks.m3u8
 
 #EXTINF:-1 tvg-name="ARY Digital" tvg-logo="https://your-site.example/logos/ary-digital.png" group-title="Entertainment",ARY Digital
 https://your-authorized-provider.example/path/ary-digital.m3u8
 
 #EXTINF:-1 tvg-name="Hum TV" tvg-logo="https://your-site.example/logos/hum-tv.png" group-title="Entertainment",Hum TV
-https://your-authorized-provider.example/path/hum-tv.m3u8
+https://cdn24lhr.tamashaweb.com:8087/jazzauth/humTV-abr/live/82M/chunks.m3u8
 
 #EXTINF:-1 tvg-name="Green Entertainment" tvg-logo="https://your-site.example/logos/green-entertainment.png" group-title="Entertainment",Green Entertainment
 https://your-authorized-provider.example/path/green-entertainment.m3u8
@@ -70,8 +70,7 @@ https://your-authorized-provider.example/path/see-tv.m3u8
 https://your-authorized-provider.example/path/ptv-sports.m3u8
 
 #EXTINF:-1 tvg-name="Ten Sports" tvg-logo="https://your-site.example/logos/ten-sports.png" group-title="Sports",Ten Sports
-https://your-authorized-provider.example/path/ten-sports.m3u8
-
+https://cdn24lhr.tamashaweb.com:8087/jazzauth/PTVSports-abr/live/Livesoon/chunks.m3u8
 #EXTINF:-1 tvg-name="A Sports" tvg-logo="https://your-site.example/logos/a-sports.png" group-title="Sports",A Sports
 https://your-authorized-provider.example/path/a-sports.m3u8
 
@@ -94,4 +93,4 @@ https://your-authorized-provider.example/path/sky-news.m3u8
 https://your-authorized-provider.example/path/dw-news.m3u8
 
 #EXTINF:-1 tvg-name="TRT World" tvg-logo="https://your-site.example/logos/trt-world.png" group-title="World News",TRT World
-https://your-authorized-provider.example/path/trt-world.m3u8
+https://cdn5.mjunoon.tv:8087/web/TRTENG-153/live/153H/chunks.m3u8
