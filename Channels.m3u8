@@ -4,3 +4,94 @@ https://cdn5.mjunoon.tv:8087/web/Neo-110/live/110M/chunks.m3u8
 
 #EXTINF:-1 tvg-name="See tv" tvg-logo="https://your-site.example/logos/another-channel.png" group-title="entertainment",See tv
 https://cdn5.mjunoon.tv:8087/web/SeeTV-156/live/156M/l_231882982_38645.ts
+#EXTM3U
+
+#EXTINF:-1 tvg-id="geo-news" tvg-name="Geo News" tvg-logo="https://your-site.example/logos/geo-news.png" group-title="News",Geo News
+https://your-authorized-provider.example/path/geo-news.m3u8
+
+#EXTINF:-1 tvg-name="ARY News" tvg-logo="https://your-site.example/logos/ary-news.png" group-title="News",ARY News
+https://your-authorized-provider.example/path/ary-news.m3u8
+
+#EXTINF:-1 tvg-name="Samaa TV" tvg-logo="https://your-site.example/logos/samaa-tv.png" group-title="News",Samaa TV
+https://your-authorized-provider.example/path/samaa-tv.m3u8
+
+#EXTINF:-1 tvg-name="Dunya News" tvg-logo="https://your-site.example/logos/dunya-news.png" group-title="News",Dunya News
+https://your-authorized-provider.example/path/dunya-news.m3u8
+
+#EXTINF:-1 tvg-name="Express News" tvg-logo="https://your-site.example/logos/express-news.png" group-title="News",Express News
+https://your-authorized-provider.example/path/express-news.m3u8
+
+#EXTINF:-1 tvg-name="24 News HD" tvg-logo="https://your-site.example/logos/24-news.png" group-title="News",24 News HD
+https://your-authorized-provider.example/path/24-news.m3u8
+
+#EXTINF:-1 tvg-name="Aaj News" tvg-logo="https://your-site.example/logos/aaj-news.png" group-title="News",Aaj News
+https://your-authorized-provider.example/path/aaj-news.m3u8
+
+#EXTINF:-1 tvg-name="Hum News" tvg-logo="https://your-site.example/logos/hum-news.png" group-title="News",Hum News
+https://your-authorized-provider.example/path/hum-news.m3u8
+
+#EXTINF:-1 tvg-name="GNN" tvg-logo="https://your-site.example/logos/gnn.png" group-title="News",GNN
+https://your-authorized-provider.example/path/gnn.m3u8
+
+#EXTINF:-1 tvg-name="PTV News" tvg-logo="https://your-site.example/logos/ptv-news.png" group-title="News",PTV News
+https://your-authorized-provider.example/path/ptv-news.m3u8
+
+#EXTINF:-1 tvg-name="Geo Entertainment" tvg-logo="https://your-site.example/logos/geo-entertainment.png" group-title="Entertainment",Geo Entertainment
+https://your-authorized-provider.example/path/geo-entertainment.m3u8
+
+#EXTINF:-1 tvg-name="ARY Digital" tvg-logo="https://your-site.example/logos/ary-digital.png" group-title="Entertainment",ARY Digital
+https://your-authorized-provider.example/path/ary-digital.m3u8
+
+#EXTINF:-1 tvg-name="Hum TV" tvg-logo="https://your-site.example/logos/hum-tv.png" group-title="Entertainment",Hum TV
+https://your-authorized-provider.example/path/hum-tv.m3u8
+
+#EXTINF:-1 tvg-name="Green Entertainment" tvg-logo="https://your-site.example/logos/green-entertainment.png" group-title="Entertainment",Green Entertainment
+https://your-authorized-provider.example/path/green-entertainment.m3u8
+
+#EXTINF:-1 tvg-name="Express Entertainment" tvg-logo="https://your-site.example/logos/express-entertainment.png" group-title="Entertainment",Express Entertainment
+https://your-authorized-provider.example/path/express-entertainment.m3u8
+
+#EXTINF:-1 tvg-name="A Plus" tvg-logo="https://your-site.example/logos/a-plus.png" group-title="Entertainment",A Plus
+https://your-authorized-provider.example/path/a-plus.m3u8
+
+#EXTINF:-1 tvg-name="TV One" tvg-logo="https://your-site.example/logos/tv-one.png" group-title="Entertainment",TV One
+https://your-authorized-provider.example/path/tv-one.m3u8
+
+#EXTINF:-1 tvg-name="Kashish TV" tvg-logo="https://your-site.example/logos/kashish-tv.png" group-title="Entertainment",Kashish TV
+https://your-authorized-provider.example/path/kashish-tv.m3u8
+
+#EXTINF:-1 tvg-name="PTV Home" tvg-logo="https://your-site.example/logos/ptv-home.png" group-title="Entertainment",PTV Home
+https://your-authorized-provider.example/path/ptv-home.m3u8
+
+#EXTINF:-1 tvg-name="See TV" tvg-logo="https://your-site.example/logos/see-tv.png" group-title="Entertainment",See TV
+https://your-authorized-provider.example/path/see-tv.m3u8
+
+#EXTINF:-1 tvg-name="PTV Sports" tvg-logo="https://your-site.example/logos/ptv-sports.png" group-title="Sports",PTV Sports
+https://your-authorized-provider.example/path/ptv-sports.m3u8
+
+#EXTINF:-1 tvg-name="Ten Sports" tvg-logo="https://your-site.example/logos/ten-sports.png" group-title="Sports",Ten Sports
+https://your-authorized-provider.example/path/ten-sports.m3u8
+
+#EXTINF:-1 tvg-name="A Sports" tvg-logo="https://your-site.example/logos/a-sports.png" group-title="Sports",A Sports
+https://your-authorized-provider.example/path/a-sports.m3u8
+
+#EXTINF:-1 tvg-name="Willow Sports" tvg-logo="https://your-site.example/logos/willow-sports.png" group-title="Sports",Willow Sports
+https://your-authorized-provider.example/path/willow-sports.m3u8
+
+#EXTINF:-1 tvg-name="CNN International" tvg-logo="https://your-site.example/logos/cnn-international.png" group-title="World News",CNN International
+https://your-authorized-provider.example/path/cnn-international.m3u8
+
+#EXTINF:-1 tvg-name="BBC News" tvg-logo="https://your-site.example/logos/bbc-news.png" group-title="World News",BBC News
+https://your-authorized-provider.example/path/bbc-news.m3u8
+
+#EXTINF:-1 tvg-name="Al Jazeera English" tvg-logo="https://your-site.example/logos/al-jazeera-english.png" group-title="World News",Al Jazeera English
+https://your-authorized-provider.example/path/al-jazeera-english.m3u8
+
+#EXTINF:-1 tvg-name="Sky News" tvg-logo="https://your-site.example/logos/sky-news.png" group-title="World News",Sky News
+https://your-authorized-provider.example/path/sky-news.m3u8
+
+#EXTINF:-1 tvg-name="DW News" tvg-logo="https://your-site.example/logos/dw-news.png" group-title="World News",DW News
+https://your-authorized-provider.example/path/dw-news.m3u8
+
+#EXTINF:-1 tvg-name="TRT World" tvg-logo="https://your-site.example/logos/trt-world.png" group-title="World News",TRT World
+https://your-authorized-provider.example/path/trt-world.m3u8
