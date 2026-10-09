@@ -7,7 +7,7 @@ https://cdn5.mjunoon.tv:8087/web/SeeTV-156/live/156M/l_231882982_38645.ts
 #EXTM3U
 
 #EXTINF:-1 tvg-id="Tamshah" tvg-name="Tamshah" tvg-logo="https://your-site.example/logos/geo-news.png" group-title="sports", Tamshah
-https://cdn02isb-n.tamashaweb.com:8087/jazzauth/SAvAUS-avod-abr/live/AUSvsSA_Dirty_240p/chunks.m3u8
+https://gcpcdn2.tamashaweb.com/live/20261008T125044Z/mux_video_240p/index-1.m3u8
 
 #EXTINF:-1 tvg-name="ARY News" tvg-logo="https://your-site.example/logos/ary-news.png" group-title="News",ARY News
 https://your-authorized-provider.example/path/ary-news.m3u8
