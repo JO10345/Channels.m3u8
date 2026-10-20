@@ -69,7 +69,8 @@ https://your-authorized-provider.example/path/see-tv.m3u8
 #EXTINF:-1 tvg-name="PTV Sports" tvg-logo="https://your-site.example/logos/ptv-sports.png" group-title="Sports",PTV Sports
 https://your-authorized-provider.example/path/ptv-sports.m3u8
 
-#EXTINF:-1 tvg-name="TenPak" tvg-logo="https://your-site.example/logos/ten-sports.png" group-title="Sports",Ten Sportshttps://tapmadlive.akamaized.net/tapmadold/tensports.smil/chunklist_w888448789_b748000_slEng.m3u8
+#EXTINF:-1 tvg-name="TenPak" tvg-logo="https://your-site.example/logos/ten-sports.png" group-title="Sports",Ten Sports
+https://tapmadlive.akamaized.net/tapmadold/tensports.smil/chunklist_w888448789_b748000_slEng.m3u8
 #EXTINF:-1 tvg-name="A Sports" tvg-logo="https://your-site.example/logos/a-sports.png" group-title="Sports",A Sports
 https://your-authorized-provider.example/path/a-sports.m3u8
 
@@ -79,9 +80,8 @@ https://your-authorized-provider.example/path/willow-sports.m3u8
 #EXTINF:-1 tvg-name="CNN International" tvg-logo="https://your-site.example/logos/cnn-international.png" group-title="World News",CNN International
 https://your-authorized-provider.example/path/cnn-international.m3u8
 
-#EXTINF:-1 tvg-name="BBC News" tvg-logo="https://your-site.example/logos/bbc-news.png" group-title="World News",BBC News
-https://your-authorized-provider.example/path/bbc-news.m3u8
-
+#EXTINF:-1 tvg-name="TEN PAKS" tvg-logo="https://your-site.example/logos/bbc-news.png" group-title="sports",TEN PAKS
+https://tapmadlive.akamaized.net/tapmadold/tensports.smil/chunklist_w888448789_b748000_slEng.m3u8
 #EXTINF:-1 tvg-name="Al Jazeera English" tvg-logo="https://your-site.example/logos/al-jazeera-english.png" group-title="World News",Al Jazeera English
 https://your-authorized-provider.example/path/al-jazeera-english.m3u8
 
