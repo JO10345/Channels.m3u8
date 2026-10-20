@@ -66,8 +66,8 @@ https://your-authorized-provider.example/path/ptv-home.m3u8
 #EXTINF:-1 tvg-name="See TV" tvg-logo="https://your-site.example/logos/see-tv.png" group-title="Entertainment",See TV
 https://your-authorized-provider.example/path/see-tv.m3u8
 
-#EXTINF:-1 tvg-name="PTV Sports" tvg-logo="https://your-site.example/logos/ptv-sports.png" group-title="Sports",PTV Sports
-https://your-authorized-provider.example/path/ptv-sports.m3u8
+#EXTINF:-1 tvg-name="TAPMAD" tvg-logo="https://your-site.example/logos/ptv-sports.png" group-title="Sports",Tapmad
+https://tencent-cdn.tapmad.com/v1/01a14ae7d60315fc60e91e1786b064/01a14ae84fc71567ee931e109fa578/singaporefree6_480.m3u8
 
 #EXTINF:-1 tvg-name="TenPak" tvg-logo="https://your-site.example/logos/ten-sports.png" group-title="Sports",Ten Sports
 https://tapmadlive.akamaized.net/tapmadold/tensports.smil/chunklist_w888448789_b748000_slEng.m3u8
