@@ -3,7 +3,7 @@
 https://cdn5.mjunoon.tv:8087/web/Neo-110/live/110M/chunks.m3u8
 
 #EXTINF:-1 tvg-name="See tv" tvg-logo="https://your-site.example/logos/another-channel.png" group-title="entertainment",See tv
-https://cdn5.mjunoon.tv:8087/web/SeeTV-156/live/156M/l_231882982_38645.ts
+https://cdn23lhr.tamashaweb.com:8087/jazzauth/seeTV-abr/live/156L/chunks.m3u8?nimblesessionid=50629545&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjMvMjAyNiAzOjQ0OjIzIFBNJmhhc2hfdmFsdWU9cUFNNDQ0VnNnSTJUQ0NGZzl2MFF5QT09JnZhbGlkbWludXRlcz02MA%3D%3D
 #EXTM3U
 
 #EXTINF:-1 tvg-id="Tamshah" tvg-name="Tamshah" tvg-logo="https://your-site.example/logos/geo-news.png" group-title="sports", Tamshah
@@ -46,7 +46,7 @@ https://your-authorized-provider.example/path/ary-digital.m3u8
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/humTV-abr/live/82M/chunks.m3u8
 
 #EXTINF:-1 tvg-name="Green Entertainment" tvg-logo="https://your-site.example/logos/green-entertainment.png" group-title="Entertainment",Green Entertainment
-https://your-authorized-provider.example/path/green-entertainment.m3u8
+https://cdn05khi.tamashaweb.com:8087/jazzauth/Green_Entertainment-abr/live/vsat-green-L/chunks.m3u8?nimblesessionid=43701894&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjMvMjAyNiAzOjIzOjU3IFBNJmhhc2hfdmFsdWU9YThNR3JqLzZleVo5Q3dWbGxXOE1qdz09JnZhbGlkbWludXRlcz02MA%3D%3D
 
 #EXTINF:-1 tvg-name="Express Entertainment" tvg-logo="https://your-site.example/logos/express-entertainment.png" group-title="Entertainment",Express Entertainment
 https://your-authorized-provider.example/path/express-entertainment.m3u8
@@ -63,8 +63,8 @@ https://your-authorized-provider.example/path/kashish-tv.m3u8
 #EXTINF:-1 tvg-name="PTV Home" tvg-logo="https://your-site.example/logos/ptv-home.png" group-title="Entertainment",PTV Home
 https://your-authorized-provider.example/path/ptv-home.m3u8
 
-#EXTINF:-1 tvg-name="See TV" tvg-logo="https://your-site.example/logos/see-tv.png" group-title="Entertainment",See TV
-https://your-authorized-provider.example/path/see-tv.m3u8
+#EXTINF:-1 tvg-name="geo enter" tvg-logo="https://your-site.example/logos/see-tv.png" group-title="Entertainment",geo enter
+https://cdn05khi.tamashaweb.com:8087/jazzauth/Green_Entertainment-abr/live/vsat-green-L/chunks.m3u8?nimblesessionid=43701894&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjMvMjAyNiAzOjIzOjU3IFBNJmhhc2hfdmFsdWU9YThNR3JqLzZleVo5Q3dWbGxXOE1qdz09JnZhbGlkbWludXRlcz02MA%3D%3D
 
 #EXTINF:-1 tvg-name="TAPMAD" tvg-logo="https://your-site.example/logos/ptv-sports.png" group-title="Sports",Tapmad
 https://tencent-cdn.tapmad.com/v1/01a14ae7d60315fc60e91e1786b064/01a14ae84fc71567ee931e109fa578/singaporefree6_480.m3u8
